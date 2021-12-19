@@ -1,0 +1,36 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 3vw 5vw 0 5vw;
+}
+img {
+  width: 130%;
+}
+.search-container {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 10px 0.1px rgb(214, 213, 213);
+  border-radius: 1vw;
+}
+button {
+  background-color: white;
+  border-top: none;
+  border-bottom: none;
+  padding: 1vw;
+}
+.search-country {
+  border-radius: 2vw 0px 0px 2vw;
+  border-right: none;
+  border-left: none;
+  font-weight: bold;
+}
+.guests {
+  border-left: 0.1px solid rgb(248, 247, 247);
+  border-right: 0.1px solid rgb(248, 247, 247);
+  color: rgb(214, 206, 206);
+  font-weight: bold;
+}
+.icon-search {
+  border-radius: 0px 2vw 2vw 0px;
+  border-left: 0.1px solid rgb(248, 247, 247);
+  border-right: none;
+}

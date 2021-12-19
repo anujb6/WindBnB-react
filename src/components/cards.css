@@ -1,0 +1,68 @@
+.small {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  padding: 1vw 4.5vw 0 4.5vw;
+}
+.small h4 {
+  font-size: 110%;
+  font-weight: bold;
+  color: #111;
+}
+.small h5 {
+  color: gray;
+}
+/*---------------------------Cards------------------------*/
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 0 0vw 1vw 3vw;
+  margin: 0;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+}
+img {
+  width: 90%;
+  border-radius: 1vw;
+}
+.info {
+  display: flex;
+}
+.info p {
+  padding: 0.5vw 1.5vw 0 1.5vw;
+  margin: 0;
+  text-align: center;
+  color: gray;
+}
+.name h3 {
+  text-align: center;
+  padding-right: 1.5vw;
+}
+button:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.input {
+  width: 40%;
+  padding: 1vw;
+  text-align: center;
+  background-color: rgb(231, 55, 55);
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  border-radius: 1vw;
+  display: none;
+  position: absolute;
+  left: 25%;
+  top: 3%;
+}
+.input input {
+  padding: 0.9vw;
+  text-align: center;
+  border-radius: 1vw;
+  width: 60%;
+  border: none;
+  font-weight: bold;
+}
+.input input:focus {
+  outline: none;
+}

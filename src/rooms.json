@@ -1,0 +1,58 @@
+[
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1StBs4YAnkQrJV0FRCg5ETff69plaDMlgA&usqp=CAU",
+    "name": "Stylist apartment in center of the city",
+    "stars": "4.4",
+    "beds": "4 beds",
+    "type": "Entire apatment"
+  },
+  {
+    "img": "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
+    "name": "Nice apartment in center of Helsinki",
+    "stars": "4.2",
+    "beds": "6 beds",
+    "type": "Entire apatment"
+  },
+  {
+    "img": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
+    "name": "Arty interior in 1900 wooden house",
+    "stars": "4.5",
+    "beds": "4 beds",
+    "type": "Entire apatment"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1StBs4YAnkQrJV0FRCg5ETff69plaDMlgA&usqp=CAU",
+    "name": "Apartment next to market spuare",
+    "stars": "4.3",
+    "beds": "7 beds",
+    "type": "Super Host"
+  },
+  {
+    "img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2249&q=80",
+    "name": "Villa Aurora guest-house",
+    "stars": "4.8",
+    "beds": "4 beds",
+    "type": "Entire apartment"
+  },
+  {
+    "img": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
+    "name": "Cosy family house",
+    "stars": "4.1",
+    "beds": "3 beds",
+    "type": "Super host"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1StBs4YAnkQrJV0FRCg5ETff69plaDMlgA&usqp=CAU",
+    "name": "Lovely Studio near Railway Station",
+    "stars": "4.6",
+    "beds": "5 beds",
+    "type": "Entire house"
+  },
+  {
+    "img": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
+    "name": "Peaceful little home in city center",
+    "stars": "4.8",
+    "beds": "3 beds",
+    "type": "Entire house"
+  }
+]
